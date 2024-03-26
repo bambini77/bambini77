@@ -1,9 +1,12 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 <div style="text-align: center;">
-
-    #### 안녕하세요
-
-    #### 인공지능을 공부중인 최윤창입니다.
-
+  <h2>안녕하세요</h2>
+  <h2>최윤창입니다</h2>
+    
+</div>
 
 
 <div align="center">
@@ -24,5 +27,6 @@
  - [홍익대학교 알고리즘 학회 HI-ARC] 학회장 2023.08 ~ now 
 
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bambini77)](https://solved.ac/bambini77/)<img src="http://mazandi.herokuapp.com/api?handle=bambini77&theme=dark"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bambini77"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=bambini77&theme=dark"/>
 </div>
