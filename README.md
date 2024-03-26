@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=wav&text=까치도리)
 
 <div style="text-align: center;">
-  <h2>안녕하세요</h2>
-  <h2>최윤창입니다</h2>
-    
+  <h3>안녕하세요 성장하는 까치입니다</h3>
 </div>
 
 
@@ -18,6 +14,10 @@
   &nbsp
    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
    &nbsp
+   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  &nbsp
 </div>
 
 
