@@ -7,14 +7,16 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=뱃지모양&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
-<!--
-**bambini77/bambini77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### 활동
 
  - [홍익대학교 알고리즘 학회 HI-ARC] 학회장 2023.08 ~ now 
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bambini77)](https://solved.ac/bambini77)
+ ![kkachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambini77&show_icons=true&?count_private=true)
