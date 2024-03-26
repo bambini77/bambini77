@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wav&text=까치도리)
+![header](https://capsule-render.vercel.app/api?type=wave&text=까치도리)
 
 <div style="text-align: center;">
   <h3>안녕하세요 성장하는 까치입니다</h3>
