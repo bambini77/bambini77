@@ -26,7 +26,7 @@
 ### 활동
 
  - [AIS LAB] 학부연구생 2024.03 ~ now
- - [홍익대학교 알고리즘 학회 HI-ARC] 학회장 2023.08 ~ now 
+ - [홍익대학교 알고리즘 학회 HI-ARC] 학회장 2023.08 ~ 2024.07 
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bambini77"/>
